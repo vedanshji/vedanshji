@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedansh</h1>
-<h3 align="center">A passionate developer from Jharkhand, India and Scholar Trainee at Wipro I work with diverse teams to deliver innovative solutions to clients across various projects in different domains. I am more passionate about exploring the challenges and opportunities of new technologies, especially about programming, travelling, sketching. Currently learning about AI, ML and Deep Learning, IoT while working on some projects, feel free to connect with me about anything you like and reach me through my email. See you soon!</h3>
+<h3 align="center">A passionate developer from India and Software enginner at Wipro I work with diverse teams to deliver innovative solutions to clients across various projects in different domains. I am more passionate about exploring the challenges and opportunities of new technologies, especially about programming, travelling, sketching. Currently learning about AI, ML and Deep Learning, IoT while working on some projects, feel free to connect with me about anything you like and reach me through my email. See you soon!</h3>
 
-- 🌱 I’m currently learning **AI, ML, Deep Learning, IOT**
+- 🌱 I’m currently learning **AI, ML, Deep Learning, IOT, Devops**
 
 - 👨‍💻 All of my projects are available at [vedanshs.vercel.app](vedanshs.vercel.app)
 
